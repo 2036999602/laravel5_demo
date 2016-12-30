@@ -39,7 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 51111111</div>
-                
+
             </div>
         </div>
     </body>
