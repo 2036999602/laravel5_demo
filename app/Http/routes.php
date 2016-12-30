@@ -19,3 +19,8 @@ Route::get('/', function () {
 Route::get('/about', function () {
     return view('about');
 });
+
+
+Route::get('/bug', function () {
+    return view('bug');
+});
