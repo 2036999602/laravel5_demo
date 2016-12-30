@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel333</div>
+                <div class="title">master file</div>
             </div>
         </div>
     </body>
