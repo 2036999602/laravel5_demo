@@ -39,6 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">bug file</div>
+                <div class="title">bug 1</div>
             </div>
         </div>
     </body>
